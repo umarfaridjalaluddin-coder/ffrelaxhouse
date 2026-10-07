@@ -8,7 +8,7 @@ window.FF_CONFIG = {
 
   // Optional links. Leave as "" to keep the button hidden.
   // WhatsApp: digits only with country code, e.g. "60XXXXXXXXX". Only add a number you are happy to publish.
-  whatsapp: "",
+  whatsapp: "60175086096",
   bookingUrl: "",   // e.g. your listing page on a booking platform
   instagramUrl: "",
   facebookUrl: "",
